@@ -1,0 +1,13 @@
+node_modules/
+.venv/
+venv/
+__pycache__/
+build/
+dist/
+.git/
+*.lock
+package-lock.json
+*.png
+*.jpg
+*.pdf
+assets/
