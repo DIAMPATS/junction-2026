@@ -1,13 +1,9 @@
-node_modules/
+.env
 .venv/
 venv/
 __pycache__/
+node_modules/
 build/
 dist/
-.git/
+.claude/worktrees/
 *.lock
-package-lock.json
-*.png
-*.jpg
-*.pdf
-assets/
